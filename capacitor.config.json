@@ -1,0 +1,6 @@
+{
+  "appId": "com.vaultscash.app",
+  "appName": "Vaults",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
